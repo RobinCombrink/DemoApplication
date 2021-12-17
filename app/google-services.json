@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775112501106",
+    "project_id": "fir-project-1edc9",
+    "storage_bucket": "fir-project-1edc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775112501106:android:00467a160b266e1794dfeb",
+        "android_client_info": {
+          "package_name": "com.skynamo.demoapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775112501106-8hl0bqrjo8pqegagtcndetualjk9hsq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVPrNbBdQkv-5ISC_1RApgL6Uv6dUi5tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775112501106-8hl0bqrjo8pqegagtcndetualjk9hsq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
